@@ -1,0 +1,8 @@
+ANDROID-16-system-td-arm64-vanilla.img.xz filter=lfs diff=lfs merge=lfs -text
+DSU_Sideloader.apk filter=lfs diff=lfs merge=lfs -text
+init_boot_b-patched-with-magisk-you-probably-shouldnt-use-this.img.zst filter=lfs diff=lfs merge=lfs -text
+loop-apks.tar.zst filter=lfs diff=lfs merge=lfs -text
+magisk-30.6.apk filter=lfs diff=lfs merge=lfs -text
+stock-firmware.tar.zst filter=lfs diff=lfs merge=lfs -text
+TrebleInfo.apk filter=lfs diff=lfs merge=lfs -text
+images/treble.avif filter=lfs diff=lfs merge=lfs -text
